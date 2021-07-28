@@ -20,12 +20,10 @@ number2
 =
 
 Multiplication:
-/*
 number1
 number2
 *
 =
-*/
 
 Division:
 number1
@@ -33,4 +31,4 @@ number2
 /
 =
 
-Please refer to the PDF for more commands
+Please refer to the PDF for more commands. Please view this Readme in Raw.

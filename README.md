@@ -8,7 +8,7 @@ The code should run.
 The avaliable commands can be entered into the command line as follows:
 
 
-Addition:
+Addition
 number1
 number2
 +

@@ -20,10 +20,12 @@ number2
 =
 
 Multiplication:
+/*
 number1
 number2
 *
 =
+*/
 
 Division:
 number1
